@@ -2,7 +2,7 @@
 
 ### Link to Deployed Website
 
-If you used the stencil code, this is `https://<your GitHub username>.github.io/<name of your repository>`
+If you used the stencil code, this is `https://thirstyturtle125.github.io/Development/`
 
 ### Goal and Value of the Application
 
@@ -10,9 +10,9 @@ This React webapp is an emulation of a nutrional calculator for the 15 most popu
 
 The webpage is entirely dynamic. Adding, removing, filtering, and sorting can be done in real-time and there is no need to refresh the page while doing so. There is also a reset button to reset the user's filters and sorting selection.
 
-### Usability Principles Considered
+# Usability Principles Considered
 
-## Usability
+### Usability
 
 I ensured the usability of this application by eliminating any chance of confusion with clearly labeled dropdown buttons and components. On top of this, I made sure that any combination of filtering/sorting works (only 1 sorting option at a time though).
 
