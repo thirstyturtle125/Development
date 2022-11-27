@@ -32,23 +32,23 @@ The simple layout (utilizing the React Bootstrap flex layout) allows for user to
 The following lists out the component hierarchy:
 
 src/
-| - index.js (Entry point into the app)
-| - App.js (Main Component)
-| - Components/ (folder that holds all custom components)
-|   - FilteredList.jsx (This wraps all other units and makes
+ - index.js (Entry point into the app)
+ - App.js (Main Component)
+ - Components/ (folder that holds all custom components)
+   - FilteredList.jsx (This wraps all other units and makes
 use of a dynamic list)
-|   - Sieve.jsx (This component handles all filtering and sorting
+   - Sieve.jsx (This component handles all filtering and sorting
 functionality)
-|   - Calculator.jsx (This component is a wrapper for the calculator,
+   - Calculator.jsx (This component is a wrapper for the calculator,
 which aggregates the total amount of calories, sugar, and saturated fat)
-|   - CalculatorItem.jsx (This component renders each item in the Calculator
+   - CalculatorItem.jsx (This component renders each item in the Calculator
 This also handles quantity and removal from the Calculator)
-|   - Candy.jsx (This handles the functionality of each individual candy card)
-| - Data/ (folder that holds data)
-|   - CandyData.js (This holds a single list with all necessary data
+   - Candy.jsx (This handles the functionality of each individual candy card)
+ - Data/ (folder that holds data)
+   - CandyData.js (This holds a single list with all necessary data
 fields of all the candies, which can be imported easily)
-public/assets/
-| (This holds all the images used in the application)
+
+public/assets/ (This holds all the images used in the application)
 
 ### How Data is Passed Down Through Components
 All the main state variables are managed in App.js:
