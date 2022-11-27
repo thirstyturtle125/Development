@@ -1,8 +1,11 @@
 # Development: UIUX Candy Nutritional Calculator
 
+<img width="1437" alt="Screen Shot 2022-11-26 at 7 09 47 PM" src="https://user-images.githubusercontent.com/114880688/204116120-fa89fa1c-88fc-4583-8331-d912e91920c2.png">
+
 ### Link to Deployed Website
 
 If you used the stencil code, this is `https://thirstyturtle125.github.io/Development/`
+
 
 ### Goal and Value of the Application
 
