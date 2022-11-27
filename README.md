@@ -68,7 +68,7 @@ App.js also holds the following methods to handle those variables:
 
 The FilteredList component additionally holds displayedData and setDisplayedData(), for displaying the item components in the main container.
 
-Each of these state variables are passed down the hierarchy as props to be used dynamically.
+Each of these state variables are passed down the hierarchy as props to be used dynamically. The data was manually input, coming from this source: `http://www.cnn.com/FOOD/resources/food.for.thought/sweets/compare.candy.bar.html`
 
 ### How the User Triggers State Changes
 The user triggers state changes whenever the interact with something that affects the state variables listed above. For example, pressing the "Reset All" button affects all state variables immediately. I also make use of Functional React components, since they're a little simpler to trigger.
