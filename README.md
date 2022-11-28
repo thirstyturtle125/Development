@@ -15,7 +15,7 @@ The webpage is entirely dynamic. Adding, removing, filtering, and sorting can be
 
 # Usability Principles Considered
 
-### Usability
+## Usability
 
 I ensured the usability of this application by eliminating any chance of confusion with clearly labeled dropdown buttons and components. On top of this, I made sure that any combination of filtering/sorting works (only 1 sorting option at a time though).
 
